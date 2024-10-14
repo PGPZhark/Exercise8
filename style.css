@@ -65,3 +65,32 @@ div.contactinfo p
     text-align: left;
     float: left;
 }
+.machines
+{
+    text-align: center;
+    padding-bottom: 5%;
+}
+.machines img
+{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+div.machines div.row div
+{
+    max-width: 14%;
+}
+.party
+{
+    text-align: center;
+}
+div.party div.row div.row
+{
+    margin-left: 20%;
+}
+div.party div.row div
+{
+    
+    max-width: 80%;
+}
+
